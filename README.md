@@ -7,8 +7,8 @@ Para executá-lo você precisa ter instalado em seu PC:
 - PyAutoGui
 - Google Chrome
 
-1) Para usar o robô você precisa baixar um robo.py no seu pc
-2) Depois execute pelo CMD o arquivo:
+1) Para usar o robô você precisa baixar o robo.py deste repositório no seu pc
+2) Depois execute pelo CMD no path do arquivo:
 
 C:/>python robo.py
 
