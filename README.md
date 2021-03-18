@@ -1,5 +1,5 @@
 # Robo-python
-Esse é um pequeno projeto de Robô com python
+Esse é um pequeno projeto de um Robô com python
 
 Para executá-lo você precisa ter instalado em seu PC:
 
